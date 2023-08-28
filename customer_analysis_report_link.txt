@@ -1,0 +1,2 @@
+customer_analysis_report link:
+https://app.powerbi.com/reportEmbed?reportId=c76be09d-926e-4ed8-bf05-19239ccea017&autoAuth=true&ctid=209a70f5-a678-4831-9798-ea1ea04aa9b8
